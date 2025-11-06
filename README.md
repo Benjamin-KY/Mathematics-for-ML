@@ -2,6 +2,41 @@
 
 A collection of resources to learn and review mathematics for machine learning.
 
+## 🎓 Interactive Jupyter Notebooks (NEW!)
+
+**Learn by doing!** This repository now includes comprehensive, interactive Jupyter notebooks that teach ML mathematics through visualizations and hands-on code examples.
+
+### 📚 Available Notebooks
+
+1. **[Linear Algebra](notebooks/01_Linear_Algebra.ipynb)** - Vectors, matrices, eigenvalues, and PCA
+2. **[Calculus & Derivatives](notebooks/02_Calculus_and_Derivatives.ipynb)** - Derivatives, chain rule, and optimization basics
+3. **[Multivariate Calculus & Gradients](notebooks/03_Multivariate_Calculus_and_Gradients.ipynb)** - Gradients, Jacobians, and backpropagation
+4. **[Probability Theory](notebooks/04_Probability_Theory.ipynb)** - Distributions, Bayes' theorem, and MLE
+5. **[Statistics for ML](notebooks/05_Statistics_for_ML.ipynb)** - Hypothesis testing, confidence intervals, bias-variance
+6. **[Optimization & Gradient Descent](notebooks/06_Optimization_and_Gradient_Descent.ipynb)** - GD, momentum, Adam optimizer
+
+### 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+jupyter notebook
+```
+
+Navigate to the `notebooks/` folder and start learning!
+
+Each notebook includes:
+- 🎨 Beautiful visualizations
+- 💻 Runnable code examples
+- 📝 Clear explanations
+- ✏️ Practice exercises
+- 🎯 Real ML applications
+
+---
+
+## 📖 Additional Learning Resources
+
+## Mathematics for Machine Learning
+*by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
 # :book: Books
 
 ### Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning
